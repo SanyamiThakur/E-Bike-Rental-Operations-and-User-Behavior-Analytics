@@ -1,7 +1,7 @@
-# E-Bike-Rental-Operations-and-User-Behavior-Analytics
+# E-Bike Rental Operations and User Behavior Analytics
 End-to-end e-bike rental analysis using PostgreSQL and Power BI. Includes SQL-based data modeling, data cleaning, and analytical view creation to build interactive dashboards analyzing user behavior, ride patterns, and station operations for actionable business and fleet optimization insights.
 
-🚲 E-Bike-Rental-Operations-and-User-Behavior-Analytics
+🚲 E-Bike Rental Operational Data Analytics
 
 📌 Project Overview An end-to-end data analysis project on an e-bike rental system, covering the full pipeline from database design in PostgreSQL to interactive dashboards in Power BI. The project uncovers insights around user behaviour, station operations, and ride patterns to support smarter business and logistics decisions.
 
